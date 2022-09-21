@@ -4,8 +4,24 @@ X Operations Mod Editor는 일본의 TEAM-METEI가 개발한 인디 FPS 게임 X
 
 일본에서 만들어진 X Operations Mod Supporter가 존재하지만, 한국 환경의 PC에서 실행할 경우 글자가 깨져 일명 '뷁어'로 나타납니다. 한국에서 만들어진 프로그램도 있지만, 더 이상의 업데이트가 없어 새롭게 만들게 되었습니다.
 
-# 특징
+# 상세
 
+## 지원 버전
+|싱글|멀티|
+|:----------:|:----------:|
+|XOPS093 (Not Supported)|XOPSOLT16 (Not Supported)|
+|XOPS096|XOPSOLT17 (Not Supported)|
+|XOPS096T|XOPSOLT18|
+|XOPS097T|XOPSOLT18F|
+|XOPS097FT|XOPSOLT18F2|
+|XOPS0975T|XOPSOLT19|
+||XOPSOLT19F|
+||XOPSOLT19F2|
+
+수정을 지원하는 버전은 위 표와 같습니다.<br><br>
+
+
+## 프로그램 특징
 Light Theme | Dark Theme
 :----------:|:----------:
 ![image](https://user-images.githubusercontent.com/36888398/191532070-27757dde-c50c-4734-b41c-98fa122bae16.png)|![image](https://user-images.githubusercontent.com/36888398/191532074-a3d67537-fb3f-4f7e-ab08-6d3c8cae1b3e.png)
@@ -42,3 +58,4 @@ Weapon | Character | SmallObject
 # 여담
 * 실행 파일의 버전 체크를 AddressOfEntryPoint를 기준으로하고 있습니다. 우연하게 동일한 EP를 가지는 프로그램을 열 수도 있습니다...(?)
 * 프로세스 메모리에 접근하는 코드가 작성되어 있습니다. X Operations 프로세스 외 다른 프로세스를 선택하여 접근하지 말아주세요.
+* 일부 하드 코딩의 노가다를 보실 수 있습니다.
