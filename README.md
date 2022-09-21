@@ -2,6 +2,8 @@
 
 X Operations Mod Editor는 일본의 TEAM-METEI가 개발한 인디 FPS 게임 X Operations의 게임 데이터를 수정할 수 있는 프로그램입니다.
 
+일본에서 만들어진 X Operations Mod Supporter가 존재하지만, 한국 환경의 PC에서 실행할 경우 글자가 깨져 일명 '뷁어'로 나타납니다. 한국에서 만들어진 프로그램도 있지만, 더 이상의 업데이트가 없어 새롭게 만들게 되었습니다.
+
 # 특징
 
 Light Theme | Dark Theme
